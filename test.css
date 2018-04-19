@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#space{
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#BG{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
